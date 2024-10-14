@@ -1,0 +1,15 @@
+C:\Users\73194\AppData\Local\Temporary Projects\EventManagementSystem\obj\Release\ResolveAssemblyReference.cache
+C:\Users\73194\AppData\Local\Temporary Projects\EventManagementSystem\bin\Release\EventManagementSystem.exe
+C:\Users\73194\AppData\Local\Temporary Projects\EventManagementSystem\bin\Release\EventManagementSystem.pdb
+C:\Users\73194\AppData\Local\Temporary Projects\EventManagementSystem\obj\Release\EventManagementSystem.exe
+C:\Users\73194\AppData\Local\Temporary Projects\EventManagementSystem\obj\Release\EventManagementSystem.pdb
+C:\Users\73194\Documents\Visual Studio 2008\Projects\EventManagementSystem\EventManagementSystem\obj\Release\EventManagementSystem.exe
+C:\Users\73194\Documents\Visual Studio 2008\Projects\EventManagementSystem\EventManagementSystem\obj\Release\EventManagementSystem.pdb
+D:\EventManagementSystem\EventManagementSystem\obj\Release\EventManagementSystem.exe
+D:\EventManagementSystem\EventManagementSystem\obj\Release\EventManagementSystem.pdb
+D:\EventManagementSystem\EventManagementSystem\bin\Release\EventManagementSystem.exe
+D:\EventManagementSystem\EventManagementSystem\bin\Release\EventManagementSystem.pdb
+D:\EventManagementSystem\EventManagementSystem\obj\Release\ResolveAssemblyReference.cache
+C:\Users\2024EST\Documents\Visual Studio 2008\Projects\EventManagementSystem\EventManagementSystem\obj\Release\ResolveAssemblyReference.cache
+C:\Users\2024EST\Documents\Visual Studio 2008\Projects\EventManagementSystem\EventManagementSystem\obj\Release\EventManagementSystem.exe
+C:\Users\2024EST\Documents\Visual Studio 2008\Projects\EventManagementSystem\EventManagementSystem\obj\Release\EventManagementSystem.pdb
